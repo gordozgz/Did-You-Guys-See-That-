@@ -1,4 +1,4 @@
-![DdSTT preview](assets/DdSTT.gif)
+<img src="assets/DdSTT.gif" width="600">
 
 DdSTT — трей-приложение с рандомным показом GIF на весь экран
 ================================================================
@@ -67,3 +67,5 @@ DdSTT — трей-приложение с рандомным показом GIF
     requirements.txt  — зависимости для pip
     build_exe.bat     — сборка в один exe-файл
     README.txt        — этот файл
+
+<img src="assets/DdSTT.gif" width="600">
